@@ -1,0 +1,3 @@
+echo '#!/bin/bash
+echo "Hello from myscript.out at $(date)"' > myscript.out
+chmod +x myscript.out

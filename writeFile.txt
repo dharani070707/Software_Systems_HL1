@@ -1,0 +1,5 @@
+i am creating this file for program 7.c to read from and then copy this file to some other file 
+
+it 
+creates 
+i am adding extra spaces for testing

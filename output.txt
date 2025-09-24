@@ -1,0 +1,2 @@
+Hello from Parent process
+Hello from Child process
